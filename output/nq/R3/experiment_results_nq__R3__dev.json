@@ -1,0 +1,326 @@
+{
+  "board_configuration_seq": 0,
+  "board_dataset_seq": 0,
+  "board_configuration_name": "R3",
+  "board_dataset_id": "nq",
+  "board_experiment_id": "nq__R3__dev",
+  "inference_results": [
+    {
+      "question_id": "5379625480211278887",
+      "question": "where did the name lyme disease come from",
+      "answer": "",
+      "ground_truth_answers": [
+        "Lyme disease is the most common disease spread by ticks in the Northern Hemisphere , and was diagnosed as a separate condition for the first time in 1975 in Old Lyme , Connecticut ."
+      ],
+      "is_answerable": true,
+      "context_ids": [
+        "846243760_54593-55298",
+        "846243760_3159-4243",
+        "846243760_45307-45714",
+        "846243760_55299-55636",
+        "846243760_39639-39932",
+        "846243760_52070-52411",
+        "846243760_49000-49252",
+        "846243760_50997-51675",
+        "846243760_5223-5633",
+        "846243760_20821-21292"
+      ],
+      "contexts": [
+        "the full syndrome now known as lyme disease was not recognized until a cluster of cases originally thought to be juvenile rheumatoid arthritis was identified in three towns in southeastern connecticut in 1975, including the towns lyme and old lyme, which gave the disease its popular name. this was investigated by physicians david snydman and allen steere of the epidemic intelligence service, and by others from yale university, including dr. stephen malawista, who is credited as a co - discover of the disease. the recognition that the patients in the united states had em led to the recognition that ` ` lyme arthritis ' ' was one manifestation of the same tick - borne condition known in europe.",
+        "lyme disease is the most common disease spread by ticks in the northern hemisphere. it is estimated to affect 300, 000 people a year in the united states and 65, 000 people a year in europe. infections are most common in the spring and early summer. lyme disease was diagnosed as a separate condition for the first time in 1975 in old lyme, connecticut. it was originally mistaken for juvenile rheumatoid arthritis. the bacterium involved was first described in 1981 by willy burgdorfer. chronic symptoms are well described and are known as post - treatment lyme disease syndrome, often called chronic lyme disease. some healthcare providers claim that it is due to ongoing infection ; however, this is not believed to be true, due to the inability to detect infectious organisms after standard treatment. a lyme vaccine was marketed in the us between 1998 and 2002 ; it was withdrawn from the market due to poor sales, originally due to lack of reimbursement by insurance companies and then",
+        "lyme disease is the most common tick - borne disease in north america and europe, and one of the fastest - growing infectious diseases in the united states. of cases reported to the united states cdc, the ratio of lyme disease infection is 7. 9 cases for every 100, 000 persons. in the ten states where lyme disease is most common, the average was 31. 6 cases for every 100, 000 persons for the year 2005.",
+        "before 1976, the elements of b. burgdorferi sensu lato infection were called or known as tick - borne meningopolyneuritis, garin - bujadoux syndrome, bannwarth syndrome, afzelius ' disease, montauk knee or sheep tick fever. since 1976 the disease is most often referred to as lyme disease, lyme borreliosis or simply borreliosis.",
+        "lyme disease in sub - saharan africa is presently unknown, but evidence indicates it may occur in humans in this region. the abundance of hosts and tick vectors would favor the establishment of lyme infection in africa. in east africa, two cases of lyme disease have been reported in kenya.",
+        "the early european studies of what is now known as lyme disease described its skin manifestations. the first study dates to 1883 in breslau, germany ( now wroc\u0142aw, poland ), where physician alfred buchwald described a man who had suffered for 16 years with a degenerative skin disorder now known as acrodermatitis chronica atrophicans.",
+        "lyme disease prevalence is comparable among males and females. a wide range of age groups is affected, though the number of cases is highest among 10 - to 19 - year - olds. for unknown reasons, lyme disease is seven times more common among asians.",
+        "perhaps the first detailed description of what is now known as lyme disease appeared in the writings of reverend dr. john walker after a visit to the island of jura ( deer island ) off the west coast of scotland in 1764. he gives a good description both of the symptoms of lyme disease ( with ` ` exquisite pain ( in ) the interior parts of the limbs ' ' ) and of the tick vector itself, which he describes as a ` ` worm ' ' with a body which is ` ` of a reddish colour and of a compressed shape with a row of feet on each side ' ' that ` ` penetrates the skin ' '. many people from this area of great britain emigrated to north america between 1717 and the end of the 18th century.",
+        "lyme disease can affect multiple body systems and produce a broad range of symptoms. not all patients with lyme disease have all symptoms, and many of the symptoms are not specific to lyme disease, but can occur with other diseases, as well. the incubation period from infection to the onset of symptoms is usually one to two weeks, but can be much shorter ( days ), or much longer ( months to years ).",
+        "because of the difficulty in culturing borrelia bacteria in the laboratory, diagnosis of lyme disease is typically based on the clinical exam findings and a history of exposure to endemic lyme areas. the em rash, which does not occur in all cases, is considered sufficient to establish a diagnosis of lyme disease even when serologic blood tests are negative. serological testing can be used to support a clinically suspected case, but is not diagnostic by itself."
+      ],
+      "trajectory": null
+    },
+    {
+      "question_id": "-3986955628781722308",
+      "question": "what do you mean by data models explain the dbms",
+      "answer": "",
+      "ground_truth_answers": [
+        "The logical data structure of a database management system ( DBMS ) , whether hierarchical , network , or relational , can not totally satisfy the requirements for a conceptual definition of data because it is limited in scope and biased toward the implementation strategy employed by the DBMS . Therefore , the need to define data from a conceptual view has led to the development of semantic data modeling techniques . A semantic data model is an abstraction which defines how the stored symbols relate to the real world .::The logical data structure of a database management system ( DBMS ) can not totally satisfy the requirements for a conceptual definition of data because it is limited in scope and biased toward the implementation strategy employed by the DBMS . Therefore , the need to define data from a conceptual view has led to the development of semantic data modeling techniques . A semantic data model is an abstraction which defines how the stored symbols relate to the real world ."
+      ],
+      "is_answerable": true,
+      "context_ids": [
+        "802919300_30199-30442",
+        "802919300_4792-5045",
+        "802919300_16863-17719",
+        "802919300_1680-1901",
+        "802919300_2521-2921",
+        "802919300_15519-16451",
+        "802919300_1530-1679",
+        "802919300_2987-3665",
+        "802919300_9843-10390",
+        "802919300_22940-23465"
+      ],
+      "contexts": [
+        "the conceptual design may include data, process and behavioral perspectives, and the actual dbms used to implement the design might be based on one of many logical data models ( relational, hierarchic, network, object - oriented etc. ).",
+        "a data model explicitly determines the structure of data. typical applications of data models include database models, design of information systems, and enabling exchange of data. usually data models are specified in a data modeling language. ( 3 )",
+        "the logical data structure of a database management system ( dbms ), whether hierarchical, network, or relational, can not totally satisfy the requirements for a conceptual definition of data because it is limited in scope and biased toward the implementation strategy employed by the dbms. therefore, the need to define data from a conceptual view has led to the development of semantic data modeling techniques. that is, techniques to define the meaning of data within the context of its interrelationships with other data. as illustrated in the figure. the real world, in terms of resources, ideas, events, etc., are symbolically defined within physical data stores. a semantic data model is an abstraction which defines how the stored symbols relate to the real world. thus, the model must be a true representation of the real world.",
+        "a data model can sometimes be referred to as a data structure, especially in the context of programming languages. data models are often complemented by function models, especially in the context of enterprise models.",
+        "managing large quantities of structured and unstructured data is a primary function of information systems. data models describe the structure, manipulation and integrity aspects of the data stored in data management systems such as relational databases. they typically do not describe unstructured data, such as word processing documents, email messages, pictures, digital audio, and video.",
+        "generic data models are generalizations of conventional data models. they define standardised general relation types, together with the kinds of things that may be related by such a relation type. generic data models are developed as an approach to solve some shortcomings of conventional data models. for example, different modelers usually produce different conventional data models of the same domain. this can lead to difficulty in bringing the models of different people together and is an obstacle for data exchange and data integration. invariably, however, this difference is attributable to different levels of abstraction in the models and differences in the kinds of facts that can be instantiated ( the semantic expression capabilities of the models ). the modelers need to communicate and agree on certain elements which are to be rendered more concretely, in order to make the differences less significant.",
+        "a data model explicitly determines the structure of data. data models are specified in a data modeling notation, which is often graphical in form.",
+        "the main aim of data models is to support the development of information systems by providing the definition and format of data. according to west and fowler ( 1999 ) ` ` if this is done consistently across systems then compatibility of data can be achieved. if the same data structures are used to store and access data then different applications can share data. the results of this are indicated above. however, systems and interfaces often cost more than they should, to build, operate, and maintain. they may also constrain the business rather than support it. a major cause is that the quality of the data models implemented in systems and interfaces is poor ' '.",
+        "bill kent, in his 1978 book data and reality, compared a data model to a map of a territory, emphasizing that in the real world, ` ` highways are not painted red, rivers do n ' t have county lines running down the middle, and you ca n ' t see contour lines on a mountain ' '. in contrast to other researchers who tried to create models that were mathematically clean and elegant, kent emphasized the essential messiness of the real world, and the task of the data modeller to create order out of chaos without excessively distorting the truth.",
+        "the entities represented by a data model can be the tangible entities, but models that include such concrete entity classes tend to change over time. robust data models often identify abstractions of such entities. for example, a data model might include an entity class called ` ` person ' ', representing all the people who interact with an organization. such an abstract entity class is typically more appropriate than ones called ` ` vendor ' ' or ` ` employee ' ', which identify specific roles played by those people."
+      ],
+      "trajectory": null
+    },
+    {
+      "question_id": "4620373912136982316",
+      "question": "where is the tv show castle rock filmed",
+      "answer": "",
+      "ground_truth_answers": [
+        "In August, production began in Devens and in Orange, Massachusetts.   Crews also shot scenes at Vernon Hill School in Worcester and at an old Victorian house in Lancaster, Massachusetts.  In late September 2017, filming took place in Tewksbury, Massachusetts at The Public Health Museum on the campus of the Tewksbury State Hospital.  In October 2017, filming took place at the Central Cemetery in Orange where a funeral scene was shot.  From September 4, 2017 until the end of the month, production took place at the former West Virginia Penitentiary in Moundsville, West Virginia.  On November 21, 2017, filming took place in Worcester in the lobby of the Mercantile Building which had been refitted into a boardroom.::Production began in Devens and Orange, Massachusetts. Crews also shot scenes in Worcester and in Lancaster. In late September 2017, filming took place in Tewksbury, From September 4, 2017 until the end of the month, production took place at the former West Virginia Penitentiary in Moundsville, West Virginia, which appeared as the fictional Shawshank State Prison."
+      ],
+      "is_answerable": true,
+      "context_ids": [
+        "802197426_1075-1842",
+        "801808982_10403-11429",
+        "857092063_1101-1616",
+        "866468357_23158-23949",
+        "854113801_21546-23207",
+        "857092063_22061-23939",
+        "832663263_2594-3149",
+        "800075295_11465-11721",
+        "835380841_15090-15501",
+        "857092063_17791-19472"
+      ],
+      "contexts": [
+        "red rock is an irish television soap opera set in the fictional seaside town of red rock near dublin. the series was first broadcast on tv3 on january 7, 2015, and is produced by element pictures and company pictures. the show is based around the town ' s local garda station, as well as the ongoing battles between two feuding families, the kielys and the hennessys, whose differences often involve them getting into trouble with the gardai. the series is filmed on location or in studios based at the old john player factory in dublin. this includes an all inclusive gardai station, the neptune cafe and several home sets in the main warehouse. as red rock is set in a seaside town, howth and dun laoghaire are often used for on - location shooting.",
+        "monty python and the holy grail was mostly shot on location in scotland, particularly around doune castle, glen coe, and the privately owned castle stalker. the many castles seen throughout the film were mainly either doune castle shot from different angles or hanging miniatures. there are several exceptions to this : the very first exterior shot of a castle at the beginning of the film is kidwelly castle in south wales, and the single exterior shot of the swamp castle during ` ` tale of sir lancelot ' ' is bodiam castle in east sussex ; all subsequent shots of the exterior and interior of those scenes were filmed at doune castle. production designer julian doyle recounted that his crew constructed walls in the forest near doune. terry jones later recalled the crew had selected more castles around scotland for locations, but during the two weeks prior to principal photography, the scottish department of the environment declined permission for use of the castles in its jurisdiction, for fear of damage.",
+        "castle rock is an american psychological horror anthology web television series based on characters and settings from the stories of stephen king that premiered on july 25, 2018 on hulu. the series, created by sam shaw and dustin thomason and starring andre holland, melanie lynskey, bill skarsgard, jane levy, and sissy spacek, intertwines characters and themes from the fictional town of castle rock, maine. on august 14, 2018, it was announced that the series had been renewed for a second season.",
+        "principal photography for the first season was scheduled to begin on july 26, 2010, and the primary location was the paint hall studios in belfast, northern ireland. exterior scenes in northern ireland were filmed at sandy brae in the mourne mountains ( standing in for vaes dothrak ), castle ward ( winterfell ), saintfield estates ( the winterfell godswood ), tollymore forest ( outdoor scenes ), cairncastle ( the execution site ), the magheramorne quarry ( castle black ) and shane ' s castle ( the tourney grounds ). doune castle in stirling, scotland, was also used in the original pilot episode for scenes at winterfell. the producers initially considered filming the whole series in scotland, but decided on northern ireland because of the availability of studio space.",
+        "a castle was chosen for the video ' s setting. personnel researched numerous castles in the united states and were unable to locate one in sufficient condition for filming. they had considered traveling to europe to find a castle, but were then informed about a castle south of nashville, tennessee. named castle gwynn, a castle that is part of the tennessee renaissance festival, both located in arrington, tennessee, it was built in 1973 and chosen as the video ' s setting. wardrobe for the video was supplied by jacquard fabrics, excluding swift ' s dress for the balcony scene. the dress was designed by sandi spika with inspiration and suggestions from swift. ` ` she loves to put her input in her dresses ' ', stated spika. the two had discussed the dress two months prior to the filming of the video. accentuates were made on the video set. the video was filmed in two days in august 2008 in tennessee. on the first day, the balcony and field scenes",
+        "in a positive review, collider ' s dave trumbore praised the series saying, ` ` shaw, thomason, abrams & co. really nail the core concepts of king ' s storytelling here. each character gets a good amount of screen time to focus on introspection... castle rock is a ca n ' t - miss series for stephen king fans and a must - watch horror show for fans of dark, thrilling, character - focused mysteries. ' ' in a similarly favorable critique, entertainment weekly ' s kristen baldwin gave the series a grade of ` ` a - ' ' and commended it saying, ` ` though most characters are new ( scott glenn ' s alan pangborn, a sheriff who appeared in needful things and the dark half, is one exception ), for king fans the world of castle rock will be inescapably familiar. spending time here feels, in many ways, like coming home - - with all of the excitement and dread such a visit en",
+        "two different music videos were made for the song. the first was made in 1984 and filmed in hebden bridge in west yorkshire, england. it was directed by tim pope. the second was filmed in 1985 and was directed by leslie libman and larry williams. it was filmed in and around newcastle upon tyne with some scenes filmed in manchester in the uk and in aliquippa, pennsylvania, united states, using footage of the now - closed ltv steel and duquesne light facilities. the video featured footage from one of their first tv appearances, on the tube.",
+        "in january 2014, the actual milli vanilli singers - - jodie and linda rocco, john davis and brad howell - - filmed an in - depth interview with the producers of oprah : where are they now for own tv. the show aired in the us on friday, 21 february 2014.",
+        "beginning with its inception in 2001, the rfd - tv network aired the big joe show, a television program that included polka music and dancing. it was filmed on location in various venues throughout the united states from 1973 through 2009. rfd - tv replaced the big joe show with mollie busta ' s polka fest in january 2011 ; after big joe ' s death, reruns of the big joe show returned to rfd - tv in 2015.",
+        "principal photography for the first season was expected to take place in massachusetts in locations such as orange, massachusetts and at new england studios in devens, massachusetts. in august, production began in devens and in orange, where the downtown area of the town had been refitted to appear as the town of castle rock, and where production was expected to continue through january 2018. that month, crews also shot scenes at vernon hill school in worcester, massachusetts and at an old victorian house in lancaster, massachusetts. filming returned to orange during the week of august 21 for production of the series ' second episode. in late september 2017, filming took place in tewksbury, massachusetts at the public health museum on the campus of the tewksbury state hospital. in october 2017, filming took place at the central cemetery in orange where a funeral scene was shot. the downtown area was refitted with a more modern look in november for another phase of production. from september 4, 2017 until the end of the month,"
+      ],
+      "trajectory": null
+    },
+    {
+      "question_id": "7254186145593214191",
+      "question": "why was the national association of manufacturers formed",
+      "answer": "",
+      "ground_truth_answers": [
+        "This editorial urged the manufacturers of the time to organize and work together to improve business conditions nationally .One of the NAM 's earliest efforts was to call for the creation of the U.S. Department of Commerce '' .::An editorial in the magazine ``Dixie'' during the depression of 1894 urged the manufacturers of the time to organize and work together to improve business conditions nationally. Influenced by the article, NAM was founded. ``The U.S. was in the midst of a deep recession and many of the nation's manufacturers saw a strong need to export their products in other countries.  One of the NAM's earliest efforts was to call for the creation of the U.S. Department of Commerce''."
+      ],
+      "is_answerable": true,
+      "context_ids": [
+        "834219160_339-693",
+        "834219160_118-338",
+        "834219160_5683-6219",
+        "848935469_30941-31742",
+        "816209863_26428-26582",
+        "834232060_54003-54612",
+        "796729694_14495-14775",
+        "825370792_2281-3382",
+        "837764629_30464-30996",
+        "817492606_30153-30836"
+      ],
+      "contexts": [
+        "the national association of manufacturers ( nam ) is an advocacy group headquartered in washington, d. c., united states, with 10 additional offices across the country. it is the nation ' s largest manufacturing industrial trade association, representing 11, 000 small and large manufacturing companies in every industrial sector and in all 50 states.",
+        "national association of manufacturers founded 1895 type advocacy focus manufacturing and small business advocacy location washington d. c. area served united states key people jay timmons, president & ceo website nam. org",
+        "the nam has one affiliate. according to its website, the manufacturing institute is the 501 ( c ) 3 affiliate of the national association of manufacturers. the manufacturing institute describes its priorities as the development of a world - class manufacturing workforce, the growth of individual u. s. manufacturing companies and the expansion of the manufacturing sector in regional economies. the manufacturing institute is the authority on the attraction, qualification, and development of world - class manufacturing talent.",
+        "the national association of water companies ( nawc ), founded in 1895, which represents the interests of small and large private water and wastewater utilities ; the national association of clean water agencies ( nacwa ), founded in 1970, which represents the interests of wastewater utilities ; the national rural water association ( nrwa ), founded in 1976, which represents small water and wastewater utilities ; the association of metropolitan water agencies ( amwa ), founded in 1981, which represents the interests of large publicly owned drinking water utilities. the water reuse association, founded in 2000, which promotes water reclamation, recycling, reuse and desalination. the water quality association represents manufacturers and dealers of equipment for water treatment.",
+        "the national association of railroad passengers, a non - profit advocacy group, was organized in the late 1960s to support operation of passenger trains.",
+        "teachers organized themselves during the 1920s and 1930s. in 1917, the national education association ( nea ) was reorganized to better mobilize and represent teachers and educational staff. the rate of increase in membership was constant under the chairmanship of james crabtree - - from 8, 466 members in 1917 to 220, 149 in 1931. the rival american federation of teachers ( aft ) was based in large cities and formed alliances with the local labor unions. the nea identified as an upper - middle - class professional organization, while the aft identified with the working class and the union movement.",
+        "the american bar association ( aba ) is a nationwide voluntary bar association with the largest membership in the united states. the national bar association was formed in 1925 to focus on the interests of african - american lawyers after they were denied membership by the aba.",
+        "the first scout patrols and troops were formed in the united kingdom in 1907. there are a number of claimants to be the first troop. as scouting was a movement and not an organisation, there was initially no central organisation. the publishers, c. arthur pearson limited sold registration cards to subscribers of its magazine. numerous local or regional boy scouts associations were formed and several national scouting organisations were formed in the united kingdom including the boys ' brigade scouts, chums scout patrols, ymca boy scouts, british boy scouts, church scout patrols, london diocesan boy scout corps, boys ' life brigade scouts, national peace scouts, the boy scouts association and salvation army boy scouts ( re - organized in 1914 as the life - saving scouts of the salvation army ). the boy scouts association was formed in 1910 and does not acknowledge any single troop as being the first. unfortunately, the boy scouts association issued backdated registrations. the scout association maintains a list of all the scout troops who claim to have started in 1908",
+        "among the most important industrial manufacturers in mexico is the automotive industry, whose standards of quality are internationally recognized. the automobile sector in mexico differs from that in other latin american countries and developing nations in that it does not function as a mere assembly manufacturer. the industry produces technologically complex components and engages in some research and development activities, an example of that is the new volkswagen jetta model with up to 70 % of parts designed in mexico.",
+        "when susan b. anthony and elizabeth cady stanton formed the national women suffrage association, their goal was to help women gain voting rights through reliance on the constitution. also, in 1869 lucy stone and henry blackwell formed the american woman suffrage association ( awsa ). however, awsa focused on gaining voting rights for women through the amendment process. although these two organization were fighting for the same cause, it was not until 1890 that they merged to form the national american woman suffrage association ( nawsa ). after the merger of the two organizations, the ( nawsa ) waged a state - by - state campaign to obtain voting rights for women."
+      ],
+      "trajectory": null
+    },
+    {
+      "question_id": "-7745473912521761487",
+      "question": "when does boo radley appear in to kill a mockingbird",
+      "answer": "",
+      "ground_truth_answers": [
+        "Scout finally meets him at the very end of the book, when he saves the children's lives from Bob Ewell.  During the same night, when Boo whispers to Scout to walk him back to the Radley house, Scout takes a moment to picture what it would be like to be Boo Radley."
+      ],
+      "is_answerable": true,
+      "context_ids": [
+        "828998229_28745-29310",
+        "828998229_9485-10152",
+        "805054414_35017-35889",
+        "828998229_2952-4316",
+        "805054414_17346-18650",
+        "828998229_10626-11018",
+        "828998229_10153-10625",
+        "805054414_33990-35016",
+        "805054414_41925-42299",
+        "828998229_8654-9484"
+      ],
+      "contexts": [
+        "nathan radley is the brother of arthur ` ` boo ' ' radley and another difficult character to understand in to kill a mockingbird. when the children try to catch a view of ` ` boo ' ' late one night through a window, he shoots over their heads with a shotgun ( albeit thinking he was aiming at a black person ). nathan also cements up the knothole in which arthur leaves little gifts for the children. on the other hand, he helps miss maudie by saving some of her belongings when her house is on fire. he is more present than his brother, but equally mysterious.",
+        "boo radley ' s heroics in protecting the children from bob ewell are covered up by atticus, sheriff tate, and scout. this can be read as a wise refusal of fame. as tate notes, if word got out that boo killed ewell, boo would be inundated with gifts and visits, calamitous for him due to his reclusive personality. the precocious scout recognizes the danger : renown would ` ` kill the mockingbird ' '. boo radley is a ghost who haunts the book yet manifests himself at just the right moments in just the right way. he is, arguably, the most potent character in the whole book and as such, inspires the other key characters to save him when he needs saving.",
+        "tom robinson is the chief example among several innocents destroyed carelessly or deliberately throughout the novel. however, scholar christopher metress connects the mockingbird to boo radley : ` ` instead of wanting to exploit boo for her own fun ( as she does in the beginning of the novel by putting on gothic plays about his history ), scout comes to see him as a ' mockingbird ' - - that is, as someone with an inner goodness that must be cherished. ' ' the last pages of the book illustrate this as scout relates the moral of a story atticus has been reading to her, and, in allusions to both boo radley and tom robinson, states about a character who was misunderstood, ` ` when they finally saw him, why he had n ' t done any of those things... atticus, he was real nice, ' ' to which he responds, ` ` most people are, scout, when you finally see them. ' '",
+        "to see and speak to boo radley during the course of the novel and realize that he is harmless, despite her initial fear of him. she also stops a mob that is trying to lynch tom robinson by talking to the mob leader, mr. cunningham, about inviting his son, walter, over for dinner. mr. cunningham then tells the other mob members to get back in their cars and leave them alone. the members listen, and scout unintentionally saves tom robinson ' s life. she is portrayed by mary badham in the film adaption of to kill a mockingbird.",
+        "scholars have characterized to kill a mockingbird as both a southern gothic and a bildungsroman. the grotesque and near - supernatural qualities of boo radley and his house, and the element of racial injustice involving tom robinson, contribute to the aura of the gothic in the novel. lee used the term ` ` gothic ' ' to describe the architecture of maycomb ' s courthouse and in regard to dill ' s exaggeratedly morbid performances as boo radley. outsiders are also an important element of southern gothic texts and scout and jem ' s questions about the hierarchy in the town cause scholars to compare the novel to catcher in the rye and adventures of huckleberry finn. despite challenging the town ' s systems, scout reveres atticus as an authority above all others, because he believes that following one ' s conscience is the highest priority, even when the result is social ostracism. however, scholars debate about the southern gothic classification, noting that boo radley is in fact human",
+        "when boo finally does come out, he has a good reason : bob ewell is trying to murder the finch children. no one sees what happens in the scuffle, but at the end of it, ewell is dead and boo carries an unconscious jem to the finch house. finally faced with boo, scout does n ' t recognize him at first, but suddenly realizes who he is. boo radley is played by robert duvall in the film.",
+        "after the tom robinson trial, jem and scout have a different understanding of boo radley. ` ` scout, i think i ' m beginning to understand something. i think i ' m beginning to understand why boo radley ' s stayed shut up in the house all this time... it ' s because he wants to stay inside. ' ' ( 23. 117 ) having seen a sample of the horrible things their fellow townspeople can do, choosing to stay out of the mess of humanity does n ' t seem like such a strange choice.",
+        ", ` ` ' to kill a mockingbird ' is to kill that which is innocent and harmless - - like tom robinson. ' ' scholars have noted that lee often returns to the mockingbird theme when trying to make a moral point.",
+        "many writers compare their perceptions of to kill a mockingbird as adults with when they first read it as children. mary mcdonagh murphy interviewed celebrities including oprah winfrey, rosanne cash, tom brokaw, and harper ' s sister alice lee, who read the novel and compiled their impressions of it as children and adults into a book titled scout, atticus, and boo.",
+        "maycomb children believe he is a horrible person, due to the rumors spread about him and a trial he underwent as a teenager. it is implied during the story that boo is a very lonely man who attempts to reach out to jem and scout for love and friendship, such as leaving them small gifts and figures in a tree knothole. scout finally meets him at the very end of the book, when he saves the children ' s lives from bob ewell. scout describes him as being sickly white, with a thin mouth, thin and feathery hair, and grey eyes, almost as if he were blind. during the same night, when boo whispers to scout to walk him back to the radley house, scout takes a moment to picture what it would be like to be boo radley. while standing on his porch, she realizes his ` ` exile ' ' inside his house is really not that lonely."
+      ],
+      "trajectory": null
+    }
+  ],
+  "evaluation_results": {
+    "unitxt.context_correctness.retrieval_at_k": {
+      "per_question": {
+        "5379625480211278887": {
+          "match_at_1": 0.0,
+          "match_at_3": 1.0,
+          "match_at_5": 1.0,
+          "match_at_10": 1.0,
+          "match_at_20": 1.0,
+          "match_at_40": 1.0
+        },
+        "-3986955628781722308": {
+          "match_at_1": 0.0,
+          "match_at_3": 1.0,
+          "match_at_5": 1.0,
+          "match_at_10": 1.0,
+          "match_at_20": 1.0,
+          "match_at_40": 1.0
+        },
+        "4620373912136982316": {
+          "match_at_1": 0.0,
+          "match_at_3": 0.0,
+          "match_at_5": 0.0,
+          "match_at_10": 1.0,
+          "match_at_20": 1.0,
+          "match_at_40": 1.0
+        },
+        "7254186145593214191": {
+          "match_at_1": 0.0,
+          "match_at_3": 0.0,
+          "match_at_5": 0.0,
+          "match_at_10": 0.0,
+          "match_at_20": 0.0,
+          "match_at_40": 0.0
+        },
+        "-7745473912521761487": {
+          "match_at_1": 0.0,
+          "match_at_3": 0.0,
+          "match_at_5": 0.0,
+          "match_at_10": 1.0,
+          "match_at_20": 1.0,
+          "match_at_40": 1.0
+        }
+      },
+      "statistics": {
+        "unitxt.context_correctness.retrieval_at_k.match_at_1": {
+          "mean": 0.0,
+          "ci_low": 0.0,
+          "ci_high": 0.0,
+          "coverage": 1.0
+        },
+        "unitxt.context_correctness.retrieval_at_k.match_at_3": {
+          "mean": 0.4,
+          "ci_low": 0.0,
+          "ci_high": 0.8,
+          "coverage": 1.0
+        },
+        "unitxt.context_correctness.retrieval_at_k.match_at_5": {
+          "mean": 0.4,
+          "ci_low": 0.0,
+          "ci_high": 0.8,
+          "coverage": 1.0
+        },
+        "unitxt.context_correctness.retrieval_at_k.match_at_10": {
+          "mean": 0.8,
+          "ci_low": 0.2,
+          "ci_high": 1.0,
+          "coverage": 1.0
+        },
+        "unitxt.context_correctness.retrieval_at_k.match_at_20": {
+          "mean": 0.8,
+          "ci_low": 0.2,
+          "ci_high": 1.0,
+          "coverage": 1.0
+        },
+        "unitxt.context_correctness.retrieval_at_k.match_at_40": {
+          "mean": 0.8,
+          "ci_low": 0.2,
+          "ci_high": 1.0,
+          "coverage": 1.0
+        }
+      }
+    },
+    "unitxt.context_correctness.mrr": {
+      "per_question": {
+        "5379625480211278887": {
+          "unitxt.context_correctness.mrr": 0.5
+        },
+        "-3986955628781722308": {
+          "unitxt.context_correctness.mrr": 0.3333333333333333
+        },
+        "4620373912136982316": {
+          "unitxt.context_correctness.mrr": 0.1
+        },
+        "7254186145593214191": {
+          "unitxt.context_correctness.mrr": 0
+        },
+        "-7745473912521761487": {
+          "unitxt.context_correctness.mrr": 0.1
+        }
+      },
+      "statistics": {
+        "unitxt.context_correctness.mrr": {
+          "mean": 0.20666666666666664,
+          "ci_low": 0.06000000000000001,
+          "ci_high": 0.38666666666666666,
+          "coverage": 1.0
+        }
+      }
+    },
+    "unitxt.context_correctness.map": {
+      "per_question": {
+        "5379625480211278887": {
+          "unitxt.context_correctness.map": 0.5
+        },
+        "-3986955628781722308": {
+          "unitxt.context_correctness.map": 0.3333333333333333
+        },
+        "4620373912136982316": {
+          "unitxt.context_correctness.map": 0.1
+        },
+        "7254186145593214191": {
+          "unitxt.context_correctness.map": 0
+        },
+        "-7745473912521761487": {
+          "unitxt.context_correctness.map": 0.1
+        }
+      },
+      "statistics": {
+        "unitxt.context_correctness.map": {
+          "mean": 0.20666666666666664,
+          "ci_low": 0.06000000000000001,
+          "ci_high": 0.38666666666666666,
+          "coverage": 1.0
+        }
+      }
+    }
+  },
+  "cost_data": {
+    "api_key": "",
+    "total_cost": 0.0,
+    "total_tokens": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "requests": 0,
+    "models_used": []
+  }
+}

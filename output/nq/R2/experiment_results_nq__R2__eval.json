@@ -1,0 +1,564 @@
+{
+  "board_configuration_seq": 0,
+  "board_dataset_seq": 0,
+  "board_configuration_name": "R2",
+  "board_dataset_id": "nq",
+  "board_experiment_id": "nq__R2__eval",
+  "inference_results": [
+    {
+      "question_id": "5379625480211278887",
+      "question": "where did the name lyme disease come from",
+      "answer": "",
+      "ground_truth_answers": [
+        "Lyme disease is the most common disease spread by ticks in the Northern Hemisphere , and was diagnosed as a separate condition for the first time in 1975 in Old Lyme , Connecticut ."
+      ],
+      "is_answerable": true,
+      "context_ids": [
+        "846243760_52070-52411",
+        "846243760_54593-55298",
+        "846243760_3159-4243",
+        "846243760_49776-50217",
+        "846243760_50997-51675",
+        "846243760_55299-55636",
+        "846243760_40151-40626",
+        "846243760_1649-2371",
+        "846243760_51676-52069",
+        "846243760_40635-41062"
+      ],
+      "contexts": [
+        "the early european studies of what is now known as lyme disease described its skin manifestations. the first study dates to 1883 in breslau, germany ( now wroc\u0142aw, poland ), where physician alfred buchwald described a man who had suffered for 16 years with a degenerative skin disorder now known as acrodermatitis chronica atrophicans.",
+        "the full syndrome now known as lyme disease was not recognized until a cluster of cases originally thought to be juvenile rheumatoid arthritis was identified in three towns in southeastern connecticut in 1975, including the towns lyme and old lyme, which gave the disease its popular name. this was investigated by physicians david snydman and allen steere of the epidemic intelligence service, and by others from yale university, including dr. stephen malawista, who is credited as a co - discover of the disease. the recognition that the patients in the united states had em led to the recognition that ` ` lyme arthritis ' ' was one manifestation of the same tick - borne condition known in europe.",
+        "lyme disease is the most common disease spread by ticks in the northern hemisphere. it is estimated to affect 300, 000 people a year in the united states and 65, 000 people a year in europe. infections are most common in the spring and early summer. lyme disease was diagnosed as a separate condition for the first time in 1975 in old lyme, connecticut. it was originally mistaken for juvenile rheumatoid arthritis. the bacterium involved was first described in 1981 by willy burgdorfer. chronic symptoms are well described and are known as post - treatment lyme disease syndrome, often called chronic lyme disease. some healthcare providers claim that it is due to ongoing infection ; however, this is not believed to be true, due to the inability to detect infectious organisms after standard treatment. a lyme vaccine was marketed in the us between 1998 and 2002 ; it was withdrawn from the market due to poor sales, originally due to lack of reimbursement by insurance companies and then",
+        "the evolutionary history of borrelia burgdorferi genetics has been the subject of recent studies. one study has found that prior to the reforestation that accompanied post - colonial farm abandonment in new england and the wholesale migration into the mid - west that occurred during the early 19th century, lyme disease was present for thousands of years in america and had spread along with its tick hosts from the northeast to the midwest.",
+        "perhaps the first detailed description of what is now known as lyme disease appeared in the writings of reverend dr. john walker after a visit to the island of jura ( deer island ) off the west coast of scotland in 1764. he gives a good description both of the symptoms of lyme disease ( with ` ` exquisite pain ( in ) the interior parts of the limbs ' ' ) and of the tick vector itself, which he describes as a ` ` worm ' ' with a body which is ` ` of a reddish colour and of a compressed shape with a row of feet on each side ' ' that ` ` penetrates the skin ' '. many people from this area of great britain emigrated to north america between 1717 and the end of the 18th century.",
+        "before 1976, the elements of b. burgdorferi sensu lato infection were called or known as tick - borne meningopolyneuritis, garin - bujadoux syndrome, bannwarth syndrome, afzelius ' disease, montauk knee or sheep tick fever. since 1976 the disease is most often referred to as lyme disease, lyme borreliosis or simply borreliosis.",
+        "in europe, lyme disease is caused by infection with one or more pathogenic european genospecies of the spirochaete b. burgdorferi sensu lato, mainly transmitted by the tick ixodes ricinus. cases of b. burgdorferi sensu lato - infected ticks are found predominantly in central europe, particularly in slovenia and austria, but have been isolated in almost every country on the continent. incidence in southern europe, such as italy and portugal, is much lower. united",
+        "lyme disease is transmitted to humans by the bite of infected ticks of the genus ixodes. usually, the tick must be attached for 36 to 48 hours before the bacteria can spread. in north america, borrelia burgdorferi and borrelia mayonii are the cause. in europe and asia, the bacteria borrelia afzelii and borrelia garinii are also causes of the disease. the disease does not appear to be transmissible between people, by other animals, or through food. diagnosis is based upon a combination of symptoms, history of tick exposure, and possibly testing for specific antibodies in the blood. blood tests are often negative in the early stages of the disease. testing of individual ticks is not typically useful.",
+        "the examination of preserved museum specimens has found borrelia dna in an infected ixodes ricinus tick from germany that dates back to 1884, and from an infected mouse from cape cod that died in 1894. the 2010 autopsy of otzi the iceman, a 5, 300 - year - old mummy, revealed the presence of the dna sequence of borrelia burgdorferi making him the earliest known human with lyme disease.",
+        "in the united kingdom the number of laboratory confirmed cases of lyme disease has been rising steadily since voluntary reporting was introduced in 1986 when 68 cases were recorded in the uk and republic of ireland combined. in the uk there were 23 confirmed cases in 1988 and 19 in 1990, but 973 in 2009 and 953 in 2010. provisional figures for the first 3 quarters of 2011 show a 26 % increase on the same period in 2010."
+      ],
+      "trajectory": null
+    },
+    {
+      "question_id": "-3986955628781722308",
+      "question": "what do you mean by data models explain the dbms",
+      "answer": "",
+      "ground_truth_answers": [
+        "The logical data structure of a database management system ( DBMS ) , whether hierarchical , network , or relational , can not totally satisfy the requirements for a conceptual definition of data because it is limited in scope and biased toward the implementation strategy employed by the DBMS . Therefore , the need to define data from a conceptual view has led to the development of semantic data modeling techniques . A semantic data model is an abstraction which defines how the stored symbols relate to the real world .::The logical data structure of a database management system ( DBMS ) can not totally satisfy the requirements for a conceptual definition of data because it is limited in scope and biased toward the implementation strategy employed by the DBMS . Therefore , the need to define data from a conceptual view has led to the development of semantic data modeling techniques . A semantic data model is an abstraction which defines how the stored symbols relate to the real world ."
+      ],
+      "is_answerable": true,
+      "context_ids": [
+        "802919300_10932-11018",
+        "802919300_4792-5045",
+        "802919300_24589-25169",
+        "802919300_30199-30442",
+        "802919300_64-445",
+        "802919300_22290-22939",
+        "802919300_18740-19078",
+        "802919300_446-1063",
+        "802919300_23591-23817",
+        "802919300_16863-17719"
+      ],
+      "contexts": [
+        "a database model is a specification describing how a database is structured and used.",
+        "a data model explicitly determines the structure of data. typical applications of data models include database models, design of information systems, and enabling exchange of data. usually data models are specified in a data modeling language. ( 3 )",
+        "a data model instance is created by applying a data model theory. this is typically done to solve some business enterprise requirement. business requirements are normally captured by a semantic logical data model. this is transformed into a physical data model instance from which is generated a physical database. for example, a data modeler may use a data modeling tool to create an entity - relationship model of the corporate data repository of some business enterprise. this model is transformed into a relational model, which in turn generates a relational database.",
+        "the conceptual design may include data, process and behavioral perspectives, and the actual dbms used to implement the design might be based on one of many logical data models ( relational, hierarchic, network, object - oriented etc. ).",
+        "a data model ( or datamodel ) is an abstract model that organizes elements of data and standardizes how they relate to one another and to properties of the real world entities. for instance, a data model may specify that the data element representing a car be composed of a number of other elements which, in turn, represent the color and size of the car and define its owner.",
+        "a data model describes the structure of the data within a given domain and, by implication, the underlying structure of that domain itself. this means that a data model in fact specifies a dedicated grammar for a dedicated artificial language for that domain. a data model represents classes of entities ( kinds of things ) about which a company wishes to hold information, the attributes of that information, and relationships among those entities and ( often implicit ) relationships among those attributes. the model describes the organization of the data to some extent irrespective of how data might be represented in a computer system.",
+        "data modeling in software engineering is the process of creating a data model by applying formal data model descriptions using data modeling techniques. data modeling is a technique for defining business requirements for a database. it is sometimes called database modeling because a data model is eventually implemented in a database.",
+        "the term data model is used in two distinct but closely related senses. sometimes it refers to an abstract formalization of the objects and relationships found in a particular application domain, for example the customers, products, and orders found in a manufacturing organization. at other times it refers to a set of concepts used in defining such formalizations : for example concepts such as entities, attributes, relations, or tables. so the ` ` data model ' ' of a banking application may be defined using the entity - relationship ` ` data model ' '. this article uses the term in both senses. overview",
+        "a data model theory, i. e. a formal description of how data may be structured and accessed. a data model instance, i. e. applying a data model theory to create a practical data model instance for some particular application.",
+        "the logical data structure of a database management system ( dbms ), whether hierarchical, network, or relational, can not totally satisfy the requirements for a conceptual definition of data because it is limited in scope and biased toward the implementation strategy employed by the dbms. therefore, the need to define data from a conceptual view has led to the development of semantic data modeling techniques. that is, techniques to define the meaning of data within the context of its interrelationships with other data. as illustrated in the figure. the real world, in terms of resources, ideas, events, etc., are symbolically defined within physical data stores. a semantic data model is an abstraction which defines how the stored symbols relate to the real world. thus, the model must be a true representation of the real world."
+      ],
+      "trajectory": null
+    },
+    {
+      "question_id": "4620373912136982316",
+      "question": "where is the tv show castle rock filmed",
+      "answer": "",
+      "ground_truth_answers": [
+        "In August, production began in Devens and in Orange, Massachusetts.   Crews also shot scenes at Vernon Hill School in Worcester and at an old Victorian house in Lancaster, Massachusetts.  In late September 2017, filming took place in Tewksbury, Massachusetts at The Public Health Museum on the campus of the Tewksbury State Hospital.  In October 2017, filming took place at the Central Cemetery in Orange where a funeral scene was shot.  From September 4, 2017 until the end of the month, production took place at the former West Virginia Penitentiary in Moundsville, West Virginia.  On November 21, 2017, filming took place in Worcester in the lobby of the Mercantile Building which had been refitted into a boardroom.::Production began in Devens and Orange, Massachusetts. Crews also shot scenes in Worcester and in Lancaster. In late September 2017, filming took place in Tewksbury, From September 4, 2017 until the end of the month, production took place at the former West Virginia Penitentiary in Moundsville, West Virginia, which appeared as the fictional Shawshank State Prison."
+      ],
+      "is_answerable": true,
+      "context_ids": [
+        "857092063_1101-1616",
+        "866468357_23158-23949",
+        "857092063_17791-19472",
+        "802197426_1075-1842",
+        "857092063_16072-16855",
+        "805946337_38064-38456",
+        "817289832_11629-12301",
+        "849351974_15167-15894",
+        "843370831_18201-18531",
+        "801808982_10403-11429"
+      ],
+      "contexts": [
+        "castle rock is an american psychological horror anthology web television series based on characters and settings from the stories of stephen king that premiered on july 25, 2018 on hulu. the series, created by sam shaw and dustin thomason and starring andre holland, melanie lynskey, bill skarsgard, jane levy, and sissy spacek, intertwines characters and themes from the fictional town of castle rock, maine. on august 14, 2018, it was announced that the series had been renewed for a second season.",
+        "principal photography for the first season was scheduled to begin on july 26, 2010, and the primary location was the paint hall studios in belfast, northern ireland. exterior scenes in northern ireland were filmed at sandy brae in the mourne mountains ( standing in for vaes dothrak ), castle ward ( winterfell ), saintfield estates ( the winterfell godswood ), tollymore forest ( outdoor scenes ), cairncastle ( the execution site ), the magheramorne quarry ( castle black ) and shane ' s castle ( the tourney grounds ). doune castle in stirling, scotland, was also used in the original pilot episode for scenes at winterfell. the producers initially considered filming the whole series in scotland, but decided on northern ireland because of the availability of studio space.",
+        "principal photography for the first season was expected to take place in massachusetts in locations such as orange, massachusetts and at new england studios in devens, massachusetts. in august, production began in devens and in orange, where the downtown area of the town had been refitted to appear as the town of castle rock, and where production was expected to continue through january 2018. that month, crews also shot scenes at vernon hill school in worcester, massachusetts and at an old victorian house in lancaster, massachusetts. filming returned to orange during the week of august 21 for production of the series ' second episode. in late september 2017, filming took place in tewksbury, massachusetts at the public health museum on the campus of the tewksbury state hospital. in october 2017, filming took place at the central cemetery in orange where a funeral scene was shot. the downtown area was refitted with a more modern look in november for another phase of production. from september 4, 2017 until the end of the month,",
+        "red rock is an irish television soap opera set in the fictional seaside town of red rock near dublin. the series was first broadcast on tv3 on january 7, 2015, and is produced by element pictures and company pictures. the show is based around the town ' s local garda station, as well as the ongoing battles between two feuding families, the kielys and the hennessys, whose differences often involve them getting into trouble with the gardai. the series is filmed on location or in studios based at the old john player factory in dublin. this includes an all inclusive gardai station, the neptune cafe and several home sets in the main warehouse. as red rock is set in a seaside town, howth and dun laoghaire are often used for on - location shooting.",
+        "on february 17, 2017, it was announced that hulu, j. j. abrams, and stephen king were collaborating on a new series entitled castle rock based on king ' s large canon of work. it was further reported that the series would be written by sam shaw and dustin thomason and produced by abrams ' bad robot productions and distributed by warner bros. television. four days later, hulu further revealed that they had given the production a series order consisting of a first season of ten episodes. additionally, it announced that executive producers would include abrams, king, shaw, thomason, ben stephenson, and liz glotzer. on july 12, 2017, it was announced that michael uppendahl was joining the production as a co - executive producer and would direct the pilot episode.",
+        "in april 2015, filming took place in vancouver, british columbia, in the downtown area of west georgia street, along the promenade of the coast capital savings building. in may and june 2015 filming also took place at the university of british columbia. exterior shots of hohenwerfen castle in werfen, austria, were filmed in september 2015 for the tenth episode of the first season.",
+        "principal photography began on april 12, 2011, in the british countryside. in may 2011, production moved to somerset, england for two weeks with filming scheduled in wells, cheddar and secret locations in the county including scenes filmed at wells cathedral. also in may, scenes were shot at puzzlewood in the forest of dean near coleford, gloucestershire. puzzlewood, which features unusual tree and rock formations, has previously been used for filming of the bbc tv series doctor who and merlin. the same forest is said to have inspired j. r. r. tolkien to write the hobbit. later that month, filming took place at norwich cathedral in norwich, norfolk.",
+        "the first series was filmed in yorkshire and in altrincham between january and april 2012. altrincham was used to represent scenes set in harrogate, such as those set at caroline ' s house. the second series began filming in july 2013. filming took place at holdsworth house in halifax in august 2013 and also at hoghton tower, a fortified manor house in lancashire, in august 2013. this resulted in the tower ' s being closed to the public between 19 and 28 august. in september the university of york supplied ten students from the department of theatre, film and television to work as extras on the series. filming for the third series began in yorkshire and at peover hall, near knutsford, cheshire in july 2014.",
+        "filming for the series officially began in southport and wilmington, both in north carolina, on february 28, 2013. additional filming took place in burgaw. it was confirmed on october 9, 2014 that even after extensive cuts to the state tax credits, filming would remain in the wilmington area for the show ' s third season.",
+        "monty python and the holy grail was mostly shot on location in scotland, particularly around doune castle, glen coe, and the privately owned castle stalker. the many castles seen throughout the film were mainly either doune castle shot from different angles or hanging miniatures. there are several exceptions to this : the very first exterior shot of a castle at the beginning of the film is kidwelly castle in south wales, and the single exterior shot of the swamp castle during ` ` tale of sir lancelot ' ' is bodiam castle in east sussex ; all subsequent shots of the exterior and interior of those scenes were filmed at doune castle. production designer julian doyle recounted that his crew constructed walls in the forest near doune. terry jones later recalled the crew had selected more castles around scotland for locations, but during the two weeks prior to principal photography, the scottish department of the environment declined permission for use of the castles in its jurisdiction, for fear of damage."
+      ],
+      "trajectory": null
+    },
+    {
+      "question_id": "7254186145593214191",
+      "question": "why was the national association of manufacturers formed",
+      "answer": "",
+      "ground_truth_answers": [
+        "This editorial urged the manufacturers of the time to organize and work together to improve business conditions nationally .One of the NAM 's earliest efforts was to call for the creation of the U.S. Department of Commerce '' .::An editorial in the magazine ``Dixie'' during the depression of 1894 urged the manufacturers of the time to organize and work together to improve business conditions nationally. Influenced by the article, NAM was founded. ``The U.S. was in the midst of a deep recession and many of the nation's manufacturers saw a strong need to export their products in other countries.  One of the NAM's earliest efforts was to call for the creation of the U.S. Department of Commerce''."
+      ],
+      "is_answerable": true,
+      "context_ids": [
+        "834219160_339-693",
+        "834219160_118-338",
+        "834219160_5683-6219",
+        "837764629_30464-30996",
+        "816711474_99339-99620",
+        "819790813_15638-16345",
+        "844366867_4025-4378",
+        "834219160_2811-3901",
+        "854704049_10083-10420",
+        "816209863_26428-26582"
+      ],
+      "contexts": [
+        "the national association of manufacturers ( nam ) is an advocacy group headquartered in washington, d. c., united states, with 10 additional offices across the country. it is the nation ' s largest manufacturing industrial trade association, representing 11, 000 small and large manufacturing companies in every industrial sector and in all 50 states.",
+        "national association of manufacturers founded 1895 type advocacy focus manufacturing and small business advocacy location washington d. c. area served united states key people jay timmons, president & ceo website nam. org",
+        "the nam has one affiliate. according to its website, the manufacturing institute is the 501 ( c ) 3 affiliate of the national association of manufacturers. the manufacturing institute describes its priorities as the development of a world - class manufacturing workforce, the growth of individual u. s. manufacturing companies and the expansion of the manufacturing sector in regional economies. the manufacturing institute is the authority on the attraction, qualification, and development of world - class manufacturing talent.",
+        "among the most important industrial manufacturers in mexico is the automotive industry, whose standards of quality are internationally recognized. the automobile sector in mexico differs from that in other latin american countries and developing nations in that it does not function as a mere assembly manufacturer. the industry produces technologically complex components and engages in some research and development activities, an example of that is the new volkswagen jetta model with up to 70 % of parts designed in mexico.",
+        "by the 1890s, industrialisation in these areas had created the first giant industrial corporations with burgeoning global interests, as companies like u. s. steel, general electric, standard oil and bayer ag joined the railroad and ship companies on the world ' s stock markets.",
+        "companies formed by letters patent. most corporations by letters patent are corporations sole and not companies as the term is commonly understood today. charter corporations. before the passing of modern companies legislation, these were the only types of companies. now they are relatively rare, except for very old companies that still survive ( of which there are still many, particularly many british banks ), or modern societies that fulfill a quasi - regulatory function ( for example, the bank of england is a corporation formed by a modern charter ). statutory companies. relatively rare today, certain companies have been formed by a private statute passed in the relevant jurisdiction.",
+        "a few years later, the u. k. government took steps to improve national competitiveness following publication of cmd 8621, and third party certification of quality management systems was born, under the auspices of the national accreditation council of certification bodies ( naccb ) which has become the united kingdom accreditation service ( ukas ).",
+        "nam was founded by thomas p. egan, late president of the cincinnati chamber of commerce and head of the j. a. fay and egan co., woodworking and machinery company, not long after reading an editorial in the magazine ` ` dixie, ' ' out of atlanta, georgia, during the depression of 1894. this editorial urged the manufacturers of the time to organize and work together to improve business conditions nationally. under egan ' s leadership, organization began, and a group was created ; they called themselves the ` ` big 50 ' ' ; he invited them, and asked them to invite others, to cincinnati. on jan 25, 1895, in the oddfellows temple, where 583 manufacturers attended, nam was created. ` ` the u. s. was in the midst of a deep recession and many of the nation ' s manufacturers saw a strong need to export their products in other countries. one of the nam ' s earliest efforts was to call for the creation of the u. s",
+        "the ncd alliance is a global partnership founded in may 2009 by four international federations representing cardiovascular disease, diabetes, cancer, and chronic respiratory disease. the ncd alliance brings together roughly 900 national member associations to fight non - communicable disease. long term aims of the alliance include :",
+        "the national association of railroad passengers, a non - profit advocacy group, was organized in the late 1960s to support operation of passenger trains."
+      ],
+      "trajectory": null
+    },
+    {
+      "question_id": "-7745473912521761487",
+      "question": "when does boo radley appear in to kill a mockingbird",
+      "answer": "",
+      "ground_truth_answers": [
+        "Scout finally meets him at the very end of the book, when he saves the children's lives from Bob Ewell.  During the same night, when Boo whispers to Scout to walk him back to the Radley house, Scout takes a moment to picture what it would be like to be Boo Radley."
+      ],
+      "is_answerable": true,
+      "context_ids": [
+        "828998229_9485-10152",
+        "828998229_2952-4316",
+        "828998229_28745-29310",
+        "805054414_35017-35889",
+        "828998229_10153-10625",
+        "828998229_10626-11018",
+        "805054414_8974-9597",
+        "805054414_17346-18650",
+        "805054414_6529-7649",
+        "805054414_9598-10205"
+      ],
+      "contexts": [
+        "boo radley ' s heroics in protecting the children from bob ewell are covered up by atticus, sheriff tate, and scout. this can be read as a wise refusal of fame. as tate notes, if word got out that boo killed ewell, boo would be inundated with gifts and visits, calamitous for him due to his reclusive personality. the precocious scout recognizes the danger : renown would ` ` kill the mockingbird ' '. boo radley is a ghost who haunts the book yet manifests himself at just the right moments in just the right way. he is, arguably, the most potent character in the whole book and as such, inspires the other key characters to save him when he needs saving.",
+        "to see and speak to boo radley during the course of the novel and realize that he is harmless, despite her initial fear of him. she also stops a mob that is trying to lynch tom robinson by talking to the mob leader, mr. cunningham, about inviting his son, walter, over for dinner. mr. cunningham then tells the other mob members to get back in their cars and leave them alone. the members listen, and scout unintentionally saves tom robinson ' s life. she is portrayed by mary badham in the film adaption of to kill a mockingbird.",
+        "nathan radley is the brother of arthur ` ` boo ' ' radley and another difficult character to understand in to kill a mockingbird. when the children try to catch a view of ` ` boo ' ' late one night through a window, he shoots over their heads with a shotgun ( albeit thinking he was aiming at a black person ). nathan also cements up the knothole in which arthur leaves little gifts for the children. on the other hand, he helps miss maudie by saving some of her belongings when her house is on fire. he is more present than his brother, but equally mysterious.",
+        "tom robinson is the chief example among several innocents destroyed carelessly or deliberately throughout the novel. however, scholar christopher metress connects the mockingbird to boo radley : ` ` instead of wanting to exploit boo for her own fun ( as she does in the beginning of the novel by putting on gothic plays about his history ), scout comes to see him as a ' mockingbird ' - - that is, as someone with an inner goodness that must be cherished. ' ' the last pages of the book illustrate this as scout relates the moral of a story atticus has been reading to her, and, in allusions to both boo radley and tom robinson, states about a character who was misunderstood, ` ` when they finally saw him, why he had n ' t done any of those things... atticus, he was real nice, ' ' to which he responds, ` ` most people are, scout, when you finally see them. ' '",
+        "after the tom robinson trial, jem and scout have a different understanding of boo radley. ` ` scout, i think i ' m beginning to understand something. i think i ' m beginning to understand why boo radley ' s stayed shut up in the house all this time... it ' s because he wants to stay inside. ' ' ( 23. 117 ) having seen a sample of the horrible things their fellow townspeople can do, choosing to stay out of the mess of humanity does n ' t seem like such a strange choice.",
+        "when boo finally does come out, he has a good reason : bob ewell is trying to murder the finch children. no one sees what happens in the scuffle, but at the end of it, ewell is dead and boo carries an unconscious jem to the finch house. finally faced with boo, scout does n ' t recognize him at first, but suddenly realizes who he is. boo radley is played by robert duvall in the film.",
+        "despite tom ' s conviction, bob ewell is humiliated by the events of the trial, atticus explaining that he ` ` destroyed ( ewell ' s ) last shred of credibility at that trial. ' ' ewell vows revenge, spitting in atticus ' face, trying to break into the judge ' s house, and menacing tom robinson ' s widow. finally, he attacks the defenseless jem and scout while they walk home on a dark night after the school halloween pageant. jem suffers a broken arm in the struggle, but amid the confusion someone comes to the children ' s rescue. the mysterious man carries jem home, where scout realizes that he is boo radley.",
+        "scholars have characterized to kill a mockingbird as both a southern gothic and a bildungsroman. the grotesque and near - supernatural qualities of boo radley and his house, and the element of racial injustice involving tom robinson, contribute to the aura of the gothic in the novel. lee used the term ` ` gothic ' ' to describe the architecture of maycomb ' s courthouse and in regard to dill ' s exaggeratedly morbid performances as boo radley. outsiders are also an important element of southern gothic texts and scout and jem ' s questions about the hierarchy in the town cause scholars to compare the novel to catcher in the rye and adventures of huckleberry finn. despite challenging the town ' s systems, scout reveres atticus as an authority above all others, because he believes that following one ' s conscience is the highest priority, even when the result is social ostracism. however, scholars debate about the southern gothic classification, noting that boo radley is in fact human",
+        "they fantasize about how to get him out of his house. after two summers of friendship with dill, scout and jem find that someone leaves them small gifts in a tree outside the radley place. several times the mysterious boo makes gestures of affection to the children, but, to their disappointment, he never appears in person.",
+        "sheriff tate arrives and discovers that bob ewell has died during the fight. the sheriff argues with atticus about the prudence and ethics of charging jem ( whom atticus believes to be responsible ) or boo ( whom tate believes to be responsible ). atticus eventually accepts the sheriff ' s story that ewell simply fell on his own knife. boo asks scout to walk him home, and after she says goodbye to him at his front door he disappears again. while standing on the radley porch, scout imagines life from boo ' s perspective, and regrets that they had never repaid him for the gifts he had given them."
+      ],
+      "trajectory": null
+    },
+    {
+      "question_id": "94342033538945935",
+      "question": "the major contribution of an account planner during the creative execution stage is to",
+      "answer": "",
+      "ground_truth_answers": [
+        "Account planners' primary function is to find consumer truth and insight that helps the creative teams create work that is not only entertaining and highly memorable but also relevant to the consumer and effective in the marketplace.  They inform their strategic thinking and are ultimately responsible for the work that informs, and the penning of, the creative brief."
+      ],
+      "is_answerable": true,
+      "context_ids": [
+        "834140201_13393-13821",
+        "834140201_13822-14256",
+        "834140201_1565-4282",
+        "834140201_855-1564",
+        "834140201_12777-13392",
+        "834140201_18429-18825",
+        "834140201_21335-23285",
+        "834140201_9404-9726",
+        "834140201_17767-18428"
+      ],
+      "contexts": [
+        "the account planner is the bridge between the business side to the creative side of a marketing campaign. on the business side, the planner works with the account manager to understand what the client is looking for and then relate that to what the consumer wants. on the creative side, the planner helps to create an expressive snapshot or a single - minded directional creative brief to lead the way to the drawing board.",
+        "a good account planner is inspiring by nature, passionate for advertising and has respect for creativity. they are intuitive and curious about consumers and relationships. planners must be educated in marketing and research techniques. secretly planners must be little detectives looking for truth and understanding. they must also be numerate, imaginative, and creditable when it comes to translating and presenting research.",
+        "account planning is an advertising agency department and works alongside client facing managers ( account management ), buying advertising ( media ), and creating advertising ( creative ). around the 1980s us ad agencies introduced a new discipline from the uk called account planning which became a primary function in most us ad agencies in the 90s. ' account planners have often been called ' the left side of a creative brain '. their primary function is to find consumer truth and insight that helps the creative teams create work that is not only entertaining and highly memorable but also relevant to the consumer and effective in the marketplace. creative ideas that drive business are more typically the result of a strong collaboration between creative teams and account planners. account planners ( sometimes also called brand planners and strategic planners ) use primary and secondary research to inform their strategic thinking and are ultimately responsible for the work that informs, and the penning of, the creative brief. if the creatives are closest to the idea, and the account manager is closest to the client, the account",
+        "account planning brings the consumer into the process of developing advertising. planning is a job function relating to the application of strategy and planning techniques to direct brands unique direction across communications across advertising and marketing channels. the account planner, or simply planner, has a role to identify and empathise with the target market and unlock insight that creates value between the consumer, the brand and the category of product ( business ) or service. the thoughts and observations are construed into a value proposition and make up a document called a creative brief that is used to create and inspire advertising campaigns and other marketing communications.",
+        "there are numerous characteristics that make for a good account planner. fortini - campbell state that a person must possess intelligence, experience, strong observational skills, and judgment. the account planning group adds that account planners must have the skills to ` ` conceptualize and think strategically. they must also be able to argue their viewpoint coherently. being a team player and having a strong personality are also positive attributes. ideally, an account planner candidate will have some experience in market research, brands, advertising and communications, and people management.",
+        "having an account planner involved in the account has led to more integration within the agency, which has resulted in better teamwork in trying to combine the needs of the client, the market and the consumer. account planners stimulate discussions about things that were overlooked before, such as, purchasing decisions, brand - consumer relationship and specific circumstance evaluation.",
+        "account planning is the solution to the advertising industry ' s malaise. ( while account planning can strengthen an agency ' s creative product, no one discipline can solve all of the problems of an agency. ) account planning leads to breakthrough creative. ( account planning does provide the background and consumer research to develop creative work, but breakthrough creative is a result of a superior creative staff. ) account planning is the key to winning the new - business pitch. ( pitching is a ` ` team sport ' ' that requires all of the departments of an agency to work together. ) there is a process for account planning. ( there are numerous ways to execute proper account planning ; intuitive skills, a passion for advertising, and personal involvement are all essential and are a good place to start. ) account planning is a continuous process. ( advertising is expensive! ) account planning is new name for research, qualitative or otherwise. ( research is only one of the tools that account planners use to discover insightful information.",
+        "` ` the account planner is that member of the agency ' s team who is the expert, through background, training, experience, and attitudes, at working with information and getting it used - not just marketing research but all the information available to help solve a client ' s advertising problems. ' ' - stanley pollitt",
+        "creative brief. if the creatives are closest to the idea, and the account manager is closest to the client, the account planner is closest to the consumer. the account planner is the person on an advertising team who is most likely to have spent time with consumers ( for b to c ) or customers ( b to b ), observing the consumer ' s path to purchase, by using research such as ethnographies, focus groups or quantitative / social studies, asking consumers how they think about and use the product or service. and in an era in which the brand is at least as important as a specific product ( for instance, nike as a brand has a place in the culture that far exceeds the particular performance characteristics of their shoes ), the account planner is responsible for understanding the place of the brand in the consumer ' s mind. this is not just a simple research function - planning truly begins when research ends - and account planners stay engaged in the campaign process from the initial client briefing and",
+        "account planning exists for the sole purpose of creating advertising that truly connects with consumers, according to jon steel. planning has made its move to the forefronts of larger agencies in the us, thanks in part to jon steel, but for some it is still considered a luxury. in many accounts, the account directors will claim the development of strategy. in case there ' s no account planner on the account, it ' s a team effort ; client, account director and creative director. it must be clear where account planning is creating an advantage. account planning adds context, a wider perspective, guidance and opinion to advertising development."
+      ],
+      "trajectory": null
+    },
+    {
+      "question_id": "-6861811272304790777",
+      "question": "what is the name of traditional chinese male clothing",
+      "answer": "",
+      "ground_truth_answers": [
+        "A changshan ``long shirt'' is a traditional Chinese dress worn by men.   It is also known as a changpao``long robe'' or dagua ``great jacket.''"
+      ],
+      "is_answerable": true,
+      "context_ids": [
+        "845749886_486-1260",
+        "845749886_2607-2896",
+        "845749886_1854-2606",
+        "845749886_3270-3747",
+        "845749886_2897-3243",
+        "813981459_5731-6193",
+        "845749886_1261-1803",
+        "836459607_17214-17578",
+        "813981459_7103-8549",
+        "827357703_736-1304"
+      ],
+      "contexts": [
+        "a changshan ( help info ) ( chinese : \u9577 [UNK] ; pinyin : changshan ; literally : ` ` long shirt ' ' ) is a traditional chinese dress ( or robe, long jacket or tunic ) worn by men. in function, it is considered the male equivalent of the women ' s cheongsam ( qipao ). it is also known as a changpao ( changpao \u9577 [UNK], ` ` long robe ' ' ) or dagua ( \u5927 [UNK] dagua, ` ` great jacket ' ' ). it was often worn by men with a magua or ` ` riding jacket ' '. these types of dress were widely adopted beginning under the manchu ( chinese : [UNK] [UNK] ) rulers of the qing dynasty ( chinese : \u6e05 \u671d ), who required that men in certain positions wear this style. it took more time for the majority of women to adopt the new style of qipao rather than hanfu ( chinese : \u6f22 [UNK] ).",
+        "changshan was considered formal dress for chinese men before western - style suits were widely adopted in china. the male changshan could be worn under a western overcoat, and topped with a fedora and scarf. this combination expressed an east asian modernity in the early 20th century.",
+        "changshan, along with qipao, were introduced to china during the qing dynasty ( 17th - - 20th centuries ). the manchus in 1636 ordered that all han chinese should adopt the changshan style of dress or face harsh punishment. however, after the 1644 fall of the ming dynasty, the manchu stopped this order ; they required only that han men who served as court and government officials wear manchu clothes. commoner han men and women were still allowed to wear the hanfu. over time, the commoner han men adopted the changshan and qipao as their own dress while han women still wore hanfu. the traditional chinese hanfu style of clothing for men was gradually replaced. over time, the manchu style of male dress gained popularity among han men.",
+        "changshan are traditionally worn for formal pictures, weddings, and other formal chinese events. a black changshan, along with a rounded black hat, was, and sometimes still is, the burial attire for chinese men. changshan are not often worn today in mainland china, except during traditional chinese celebrations but, with the revival of some traditional clothing in urban mainland china, the shanghainese style functions as a stylish party dress ( cf. mao suit ).",
+        "the 1949 communist revolution ended the wearing of changshan and other traditional clothing in shanghai. shanghainese emigrants and refugees carried the fashion to hong kong, where it has remained popular. recently in shanghai and elsewhere in mainland china, many people have revived wearing the shanghainese changshan. it is made of silk.",
+        "in the maya civilization, a man ' s typical dress was a cotton breechcloth wrapped around his waist and sometimes a sleeveless shirt, either white or dyed in colours. in the twentieth century traditional male attire was characterized by some articles that were specific to a couple of towns, this included : a saco ( wool jacket ) or capixaij ( tunic ), pantalones ( trousers ), camisa ( shirt ), belt or banda ( sash ), and rodillera ( wool hip cloth ).",
+        "the mandarin chinese word changshan is cognate with the cantonese term \u9577 [UNK] cheuhng saam. this was borrowed into english as ` ` cheongsam. ' ' unlike the mandarin term, however, cheuhngsaam can refer to both male and female garments. in hong kong the term is frequently used to refer to the body - hugging female garment rather than the male changshan. because of the long british presence in hong kong, that local usage has become reflected in the meaning of cheongsam in english, which refers exclusively to the female garment.",
+        "in recent years, confucian wedding rituals have become popular among chinese couples. in such ceremonies, which are a recent innovation with no historic antecedent, the bride and groom bow and pay respects to a large portrait of confucius hanging in the banquet hall while wedding attendants and the couple themselves are dressed in traditional chinese robes.",
+        "the most prevalent and influential aspect of women ' s clothing in ancient times is the huipil, which is still prominent in guatemalan and mexican culture today. the huipil is a loose rectangular garment with a hole in the middle for the head made from lightweight sheer cotton. the huipil is usually white with colorful cross - stripping and zigzag designs woven into the cloth using the brocade technique still commonly used today. the huipil could be worn loose or tucked into a skirt ; this depends on the varying lengths of the huipil. huipils often are used to display one ' s religion and / or community affiliation. different communities tend to have different designs, colors, and lengths as well as particular huipils for ceremonial purposes. it was uncommon and often disgraceful to wear a huipil design from another community within one ' s village ; although, it was a sign of respect to wear a community ' s huipil when visiting another village.",
+        "part of a series on chinese buddhism [UNK] [UNK] [UNK] [UNK] / \u6f22 [UNK] [UNK] [UNK] history ( show ) gandhara kushan empire dharmaguptaka silk road transmission major figures ( show ) kumarajiva xuanzang huiyuan zhiyi bodhidharma huineng taixu hsu yun hsuan hua nan huai - chin traditions ( show ) chan tiantai huayan pure land weishi sanlun tangmi texts ( show ) chinese buddhist canon taisho tripitaka architecture ( show ) buddhist architecture in china bodhimandas ( show ) wutai emei jiuhua putuo culture ( show ) buddhist association of china cuisine martial arts diyu"
+      ],
+      "trajectory": null
+    },
+    {
+      "question_id": "996768280100184490",
+      "question": "where is the world's fresh water stored",
+      "answer": "",
+      "ground_truth_answers": [
+        "Only 2.5 -- 2.75 % is fresh water , including 1.75 -- 2 % frozen in glaciers , ice and snow , 0.5 -- 0.75 % as fresh groundwater and soil moisture , and less than 0.01 % of it as surface water in lakes , swamps and rivers. Freshwater lakes contain about 87 % of this fresh surface water , including 29 % in the African Great Lakes , 22 % in Lake Baikal in Russia , 21 % in the North American Great Lakes , and 14 % in other lakes. In areas with no fresh water on the ground surface , fresh water derived from precipitation may , because of its lower density , overlie saline ground water in lenses or layers. Most of the world 's fresh water is frozen in ice sheets.::The world's fresh water is stored and can be extracted from glaciers , ice and snow ,  groundwater, soil moisture , lakes, swamps, rivers,  atmosphere and precipitation."
+      ],
+      "is_answerable": true,
+      "context_ids": [
+        "865719407_7852-8402",
+        "865719407_390-912",
+        "827651066_33565-34592",
+        "865719407_913-1220",
+        "865719407_5017-6018",
+        "865719407_8487-9011",
+        "856136637_29141-29294",
+        "804788732_32071-32936",
+        "865719407_2917-3446"
+      ],
+      "contexts": [
+        "fresh water is a renewable and variable, but finite natural resource. fresh water can only be replenished through the process of the water cycle, in which water from seas, lakes, forests, land, rivers, and reservoirs evaporates, forms clouds, and returns as precipitation. locally however, if more fresh water is consumed through human activities than is naturally restored, this may result in reduced fresh water availability from surface and underground sources and can cause serious damage to surrounding and associated environments.",
+        "fresh water ( or freshwater ) is any naturally occurring water except seawater and brackish water. fresh water includes water in ice sheets, ice caps, glaciers, icebergs, bogs, ponds, lakes, rivers, streams, and even underground water called groundwater. fresh water is generally characterized by having low concentrations of dissolved salts and other total dissolved solids. though the term specifically excludes seawater and brackish water, it does include mineral - rich waters such as chalybeate springs.",
+        "water covers 71 % of the earth ' s surface. of this, 97. 5 % is the salty water of the oceans and only 2. 5 % freshwater, most of which is locked up in the antarctic ice sheet. the remaining freshwater is found in glaciers, lakes, rivers, wetlands, the soil, aquifers and atmosphere. due to the water cycle, fresh water supply is continually replenished by precipitation, however there is still a limited amount necessitating management of this resource. awareness of the global importance of preserving water for ecosystem services has only recently emerged as, during the 20th century, more than half the world ' s wetlands have been lost along with their valuable environmental services. increasing urbanization pollutes clean water supplies and much of the world still does not have access to clean, safe water. greater emphasis is now being placed on the improved management of blue ( harvestable ) and green ( soil water available for plant use ) water, and this applies at all scales of",
+        "fresh water is not the same as potable water ( or drinking water ). much of the earth ' s fresh water ( on the surface and groundwater ) is unsuitable for drinking without some treatment. fresh water can easily become polluted by human activities or due to naturally occurring processes, such as erosion.",
+        ", fresh water derived from precipitation may, because of its lower density, overlie saline ground water in lenses or layers. most of the world ' s fresh water is frozen in ice sheets. many areas suffer from lack of distribution of fresh water, such as deserts.",
+        "out of all the water on earth, saline water in oceans, seas and saline groundwater make up about 97 % of it. only 2. 5 - - 2. 75 % is fresh water, including 1. 75 - - 2 % frozen in glaciers, ice and snow, 0. 5 - - 0. 75 % as fresh groundwater and soil moisture, and less than 0. 01 % of it as surface water in lakes, swamps and rivers. freshwater lakes contain about 87 % of this fresh surface water, including 29 % in the african great lakes, 22 % in lake baikal in russia, 21 % in the north american great lakes, and 14 % in other lakes. swamps have most of the balance with only a small amount in rivers, most notably the amazon river. the atmosphere contains 0. 04 % water. in areas with no fresh water on the ground surface, fresh water derived from precipitation may, because of its lower density, overlie saline ground water in lenses or layers. most",
+        "the increase in the world population and the increase in per capita water use puts increasing strains on the finite resources availability of clean fresh water. the world bank adds that the response by freshwater ecosystems to a changing climate can be described in terms of three interrelated components : water quality, water quantity or volume, and water timing. a change in one often leads to shifts in the others as well. water pollution and subsequent eutrophication also reduces the availability of fresh water.",
+        "about 97. 5 % of the water is saline ; the remaining 2. 5 % is fresh water. most fresh water, about 68. 7 %, is present as ice in ice caps and glaciers.",
+        "for centuries ships have reported fresh water near the amazon ' s mouth yet well out of sight of land in what otherwise seemed to be the open ocean.",
+        "fresh water habitats are classified as either lentic systems, which are the still - waters including ponds, lakes, swamps and mires ; lotic which are running - water systems ; or groundwaters which flow in rocks and aquifers. there is, in addition, a zone which bridges between groundwater and lotic systems, which is the hyporheic zone, which underlies many larger rivers and can contain substantially more water than is seen in the open channel. it may also be in direct contact with the underlying underground water."
+      ],
+      "trajectory": null
+    },
+    {
+      "question_id": "4737455241543756613",
+      "question": "before guis were developed the most common interface was a(n) ____ interface",
+      "answer": "",
+      "ground_truth_answers": [
+        "Ivan Sutherland developed Sketchpad in 1963 , widely held as the first graphical computer - aided design program . In the late 1960s , researchers at the Stanford Research Institute , led by Douglas Engelbart , developed the On - Line System ( NLS ) , which used text - based hyperlinks manipulated with a then new device : the mouse ."
+      ],
+      "is_answerable": true,
+      "context_ids": [
+        "845767737_195-658",
+        "845767737_9890-10432",
+        "845767737_659-1389",
+        "799836073_54083-54896",
+        "799836073_57227-57472",
+        "845767737_4921-5277",
+        "845767737_13643-14827",
+        "845767737_4760-4920",
+        "799836073_55161-55392",
+        "854238370_38796-39027"
+      ],
+      "contexts": [
+        "the graphical user interface ( gui / \u02c8\u0261u\u02d0i / ), is a type of user interface that allows users to interact with electronic devices through graphical icons and visual indicators such as secondary notation, instead of text - based user interfaces, typed command labels or text navigation. guis were introduced in reaction to the perceived steep learning curve of command - line interfaces ( clis ), which require commands to be typed on a computer keyboard.",
+        "apple, digital research, ibm and microsoft used many of xerox ' s ideas to develop products, and ibm ' s common user access specifications formed the basis of the user interfaces used in microsoft windows, ibm os / 2 presentation manager, and the unix motif toolkit and window manager. these ideas evolved to create the interface found in current versions of microsoft windows, and in various desktop environments for unix - like operating systems, such as macos and linux. thus most current guis have largely common idioms. macintosh",
+        "the actions in a gui are usually performed through direct manipulation of the graphical elements. beyond computers, guis are used in many handheld mobile devices such as mp3 players, portable media players, gaming devices, smartphones and smaller household, office and industrial controls. the term gui tends not to be applied to other lower - display resolution types of interfaces, such as video games ( where head - up display ( hud ) is preferred ), or not including flat screens, like volumetric displays because the term is restricted to the scope of two - dimensional display screens able to describe generic information, in the tradition of the computer science research at the xerox palo alto research center.",
+        "every computer that is to be operated by an individual requires a user interface. the user interface is usually referred to as a shell and is essential if human interaction is to be supported. the user interface views the directory structure and requests services from the operating system that will acquire data from input hardware devices, such as a keyboard, mouse or credit card reader, and requests operating system services to display prompts, status messages and such on output hardware devices, such as a video monitor or printer. the two most common forms of a user interface have historically been the command - line interface, where computer commands are typed out line - by - line, and the graphical user interface, where a visual environment ( most commonly a wimp ) is present. graphical",
+        "graphical user interfaces evolve over time. for example, windows has modified its user interface almost every time a new major version of windows is released, and the mac os gui changed dramatically with the introduction of mac os x in 1999.",
+        "a series of elements conforming a visual language have evolved to represent information stored in computers. this makes it easier for people with few computer skills to work with and use computer software. the most common combination of such elements in guis is the windows, icons, menus, pointer ( wimp ) paradigm, especially in personal computers.",
+        "graphical user interface ( gui ) wrappers circumvent the command - line interface versions ( cli ) of ( typically ) linux and unix - like software applications and their text - based user interfaces or typed command labels. while command - line or text - based application allow users to run a program non - interactively, gui wrappers atop them avoid the steep learning curve of the command - line, which requires commands to be typed on the keyboard. by starting a gui wrapper, users can intuitively interact with, start, stop, and change its working parameters, through graphical icons and visual indicators of a desktop environment, for example. applications may also provide both interfaces, and when they do the gui is usually a wimp wrapper around the command - line version. this is especially common with applications designed for unix - like operating systems. the latter used to be implemented first because it allowed the developers to focus exclusively on their product ' s functionality without bothering about interface details such as designing icons",
+        "a gui uses a combination of technologies and devices to provide a platform that users can interact with, for the tasks of gathering and producing information.",
+        "most of the modern computer systems support graphical user interfaces ( gui ), and often include them. in some computer systems, such as the original implementation of the classic mac os, the gui is integrated into the kernel.",
+        "all of these devices were purely text based, with no ability to display graphic or pictures. for business application programs, text - based menus were used, but for more general interaction the command line was the interface."
+      ],
+      "trajectory": null
+    },
+    {
+      "question_id": "8597697306183736442",
+      "question": "where did the new orleans pelicans come from",
+      "answer": "",
+      "ground_truth_answers": [
+        "The Pelicans were established as the New Orleans Hornets in the 2002 - 03 season when then - owner of the Charlotte Hornets, George Shinn, relocated the franchise to New Orleans. On January 24, 2013, the franchise announced it would rename itself the Pelicans, effective after the conclusion of the 2012 - 13 season."
+      ],
+      "is_answerable": true,
+      "context_ids": [
+        "843522128_772-1124",
+        "843522128_18197-18941",
+        "843522128_13721-14181",
+        "843522128_13489-13720",
+        "843522128_138-771",
+        "843522128_1125-1962",
+        "843522128_18942-19529",
+        "857079653_30131-30309",
+        "843522128_14842-15625",
+        "843522128_26256-26867"
+      ],
+      "contexts": [
+        "the new orleans pelicans are an american professional basketball team based in new orleans, louisiana. the pelicans compete in the national basketball association ( nba ) as a member club of the league ' s western conference southwest division. the team plays their home games in the smoothie king center ( formerly known as the new orleans arena ).",
+        "the new orleans hornets were sold to tom benson on april 13, 2012. after purchasing the team, benson indicated that he wanted to change the club ' s nickname to something more regionally appropriate. on december 14, 2012, it was reported that the hornets would change their nickname to the new orleans pelicans. on january 24, 2013, the team held a press conference, where it unveiled its new nickname, logos and colors. the name pelicans is a reference to the brown pelican, the state bird of louisiana. the team said in a press release that its colors would be navy, gold and red ; each color is represented in the city flag of new orleans. the team formally adopted its new brand identity at the end of the 2012 - - 13 season.",
+        "the name ` ` pelicans ' ' previously had been used by a minor - league baseball team that played in new orleans from 1901 to 1957. the hornets organization officially confirmed the name change in a press conference held on january 24, 2013, where officials unveiled the team ' s new logos and navy blue - - gold - - red color scheme. on april 18, 2013, after the end of the team ' s 2012 - - 13 season, the team ' s name was officially changed to the pelicans.",
+        "however, on december 4, 2012, it was reported that the hornets would change their name to the new orleans pelicans beginning with the 2013 - - 14 season. the team name is inspired by louisiana ' s state bird, the brown pelican.",
+        "new orleans pelicans 2018 - - 19 new orleans pelicans season conference western division southwest founded 2002 history new orleans hornets 2002 - - 2005 ; 2007 - - 2013 new orleans / oklahoma city hornets 2005 - - 2007 new orleans pelicans 2013 - - present arena smoothie king center location new orleans, louisiana team colors navy blue, gold, red main sponsor zatarain ' s president dennis lauscha general manager dell demps head coach alvin gentry ownership gayle benson affiliation ( s ) none championships 0 conference titles 0 division titles 1 ( 2008 ) retired numbers 1 ( 7 ) website www. nba. com / pelicans home away third fourth",
+        "the pelicans were established as the new orleans hornets in the 2002 - - 03 season when then - owner of the charlotte hornets, george shinn, relocated the franchise to new orleans. due to the damage caused by hurricane katrina in 2005, the franchise temporarily relocated to oklahoma city, where they spent two seasons officially known as the new orleans / oklahoma city hornets. the team returned to new orleans full - time for the 2007 - - 08 season. on january 24, 2013, the franchise announced it would rename itself the pelicans, effective after the conclusion of the 2012 - - 13 season. the charlotte hornets ' name, history, and records from 1988 to 2002 were returned to its original city to be used by the then - - charlotte bobcats franchise, which subsequently became the charlotte hornets, starting may 20, 2014.",
+        "on august 1, 2013, the pelicans released their new uniforms. the ' new orleans ' wordmark logo across the front of the jerseys is inspired by french quarter street signs ; the pelicans are one of three nba teams to wear the city name across the front of both home and road jerseys. the partial logo is featured on the sides of the shorts, and the ` ` bird - de - lis ' ' logo ( a combination mark of the pelican, fleur - de - lis and crescent basketball shape ) is featured on the back neck. nba teams were not allowed to have alternate uniforms during their first season of operation.",
+        "the pelicans completed a sweep of the trail blazers for their 1st series win in the playoffs since the 2008 nba playoffs against the dallas mavericks as the new orleans hornets.",
+        "on june 27, 2013, during the 2013 nba draft, the pelicans selected nerlens noel 6th overall, and traded him along with a 2014 protected first - round pick for all - star point guard jrue holiday of the philadelphia 76ers and the 42nd pick, pierre jackson. at a may 20, 2014, press conference announcing the charlotte bobcats ' official team name change to hornets, it was also announced that the pelicans agreed to transfer the records and statistics of the original hornets ( 1988 - - 2002 ) to the current charlotte franchise, thus unifying all of charlotte ' s nba basketball history under one franchise ; the team records and statistics since the 2002 move to new orleans would be retained by the pelicans, retroactively turning the pelicans into a 2002 expansion team.",
+        "pierre the pelican is the official mascot for the pelicans. he was introduced on october 30, 2013, the opening night of regular season for the team at home against the indiana pacers. the name for the mascot was selected by the fans through an online poll on the team ' s website. however, pierre ' s unconventional design frightened some fans. the mascot ' s redesigned head was released on february 11, 2014. the pelicans ' prior mascot was hugo the hornet, who was part of the organization from 2002 to 2013. hugo returned as the mascot for the charlotte hornets starting with the 2014 - - 15 season."
+      ],
+      "trajectory": null
+    }
+  ],
+  "evaluation_results": {
+    "unitxt.context_correctness.retrieval_at_k": {
+      "per_question": {
+        "5379625480211278887": {
+          "match_at_1": 0.0,
+          "match_at_3": 1.0,
+          "match_at_5": 1.0,
+          "match_at_10": 1.0,
+          "match_at_20": 1.0,
+          "match_at_40": 1.0
+        },
+        "-3986955628781722308": {
+          "match_at_1": 0.0,
+          "match_at_3": 0.0,
+          "match_at_5": 0.0,
+          "match_at_10": 1.0,
+          "match_at_20": 1.0,
+          "match_at_40": 1.0
+        },
+        "4620373912136982316": {
+          "match_at_1": 0.0,
+          "match_at_3": 1.0,
+          "match_at_5": 1.0,
+          "match_at_10": 1.0,
+          "match_at_20": 1.0,
+          "match_at_40": 1.0
+        },
+        "7254186145593214191": {
+          "match_at_1": 0.0,
+          "match_at_3": 0.0,
+          "match_at_5": 0.0,
+          "match_at_10": 1.0,
+          "match_at_20": 1.0,
+          "match_at_40": 1.0
+        },
+        "-7745473912521761487": {
+          "match_at_1": 0.0,
+          "match_at_3": 0.0,
+          "match_at_5": 0.0,
+          "match_at_10": 0.0,
+          "match_at_20": 0.0,
+          "match_at_40": 0.0
+        },
+        "94342033538945935": {
+          "match_at_1": 0.0,
+          "match_at_3": 1.0,
+          "match_at_5": 1.0,
+          "match_at_10": 1.0,
+          "match_at_20": 1.0,
+          "match_at_40": 1.0
+        },
+        "-6861811272304790777": {
+          "match_at_1": 1.0,
+          "match_at_3": 1.0,
+          "match_at_5": 1.0,
+          "match_at_10": 1.0,
+          "match_at_20": 1.0,
+          "match_at_40": 1.0
+        },
+        "996768280100184490": {
+          "match_at_1": 0.0,
+          "match_at_3": 0.0,
+          "match_at_5": 1.0,
+          "match_at_10": 1.0,
+          "match_at_20": 1.0,
+          "match_at_40": 1.0
+        },
+        "4737455241543756613": {
+          "match_at_1": 0.0,
+          "match_at_3": 0.0,
+          "match_at_5": 0.0,
+          "match_at_10": 0.0,
+          "match_at_20": 0.0,
+          "match_at_40": 0.0
+        },
+        "8597697306183736442": {
+          "match_at_1": 0.0,
+          "match_at_3": 0.0,
+          "match_at_5": 0.0,
+          "match_at_10": 1.0,
+          "match_at_20": 1.0,
+          "match_at_40": 1.0
+        }
+      },
+      "statistics": {
+        "unitxt.context_correctness.retrieval_at_k.match_at_1": {
+          "mean": 0.1,
+          "ci_low": 0.0,
+          "ci_high": 0.5,
+          "coverage": 1.0
+        },
+        "unitxt.context_correctness.retrieval_at_k.match_at_3": {
+          "mean": 0.4,
+          "ci_low": 0.1,
+          "ci_high": 0.7,
+          "coverage": 1.0
+        },
+        "unitxt.context_correctness.retrieval_at_k.match_at_5": {
+          "mean": 0.5,
+          "ci_low": 0.2,
+          "ci_high": 0.8,
+          "coverage": 1.0
+        },
+        "unitxt.context_correctness.retrieval_at_k.match_at_10": {
+          "mean": 0.8,
+          "ci_low": 0.4,
+          "ci_high": 1.0,
+          "coverage": 1.0
+        },
+        "unitxt.context_correctness.retrieval_at_k.match_at_20": {
+          "mean": 0.8,
+          "ci_low": 0.4,
+          "ci_high": 1.0,
+          "coverage": 1.0
+        },
+        "unitxt.context_correctness.retrieval_at_k.match_at_40": {
+          "mean": 0.8,
+          "ci_low": 0.4,
+          "ci_high": 1.0,
+          "coverage": 1.0
+        }
+      }
+    },
+    "unitxt.context_correctness.mrr": {
+      "per_question": {
+        "5379625480211278887": {
+          "unitxt.context_correctness.mrr": 0.3333333333333333
+        },
+        "-3986955628781722308": {
+          "unitxt.context_correctness.mrr": 0.1
+        },
+        "4620373912136982316": {
+          "unitxt.context_correctness.mrr": 0.3333333333333333
+        },
+        "7254186145593214191": {
+          "unitxt.context_correctness.mrr": 0.125
+        },
+        "-7745473912521761487": {
+          "unitxt.context_correctness.mrr": 0
+        },
+        "94342033538945935": {
+          "unitxt.context_correctness.mrr": 0.3333333333333333
+        },
+        "-6861811272304790777": {
+          "unitxt.context_correctness.mrr": 1.0
+        },
+        "996768280100184490": {
+          "unitxt.context_correctness.mrr": 0.2
+        },
+        "4737455241543756613": {
+          "unitxt.context_correctness.mrr": 0
+        },
+        "8597697306183736442": {
+          "unitxt.context_correctness.mrr": 0.16666666666666666
+        }
+      },
+      "statistics": {
+        "unitxt.context_correctness.mrr": {
+          "mean": 0.25916666666666666,
+          "ci_low": 0.1433333333333333,
+          "ci_high": 0.5325,
+          "coverage": 1.0
+        }
+      }
+    },
+    "unitxt.context_correctness.map": {
+      "per_question": {
+        "5379625480211278887": {
+          "unitxt.context_correctness.map": 0.3333333333333333
+        },
+        "-3986955628781722308": {
+          "unitxt.context_correctness.map": 0.1
+        },
+        "4620373912136982316": {
+          "unitxt.context_correctness.map": 0.3333333333333333
+        },
+        "7254186145593214191": {
+          "unitxt.context_correctness.map": 0.125
+        },
+        "-7745473912521761487": {
+          "unitxt.context_correctness.map": 0
+        },
+        "94342033538945935": {
+          "unitxt.context_correctness.map": 0.3333333333333333
+        },
+        "-6861811272304790777": {
+          "unitxt.context_correctness.map": 1.0
+        },
+        "996768280100184490": {
+          "unitxt.context_correctness.map": 0.2
+        },
+        "4737455241543756613": {
+          "unitxt.context_correctness.map": 0
+        },
+        "8597697306183736442": {
+          "unitxt.context_correctness.map": 0.16666666666666666
+        }
+      },
+      "statistics": {
+        "unitxt.context_correctness.map": {
+          "mean": 0.25916666666666666,
+          "ci_low": 0.1433333333333333,
+          "ci_high": 0.5325,
+          "coverage": 1.0
+        }
+      }
+    }
+  },
+  "cost_data": {
+    "api_key": "",
+    "total_cost": 0.0,
+    "total_tokens": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "requests": 0,
+    "models_used": []
+  }
+}
