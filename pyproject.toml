@@ -6,10 +6,13 @@ readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
     "faiss-cpu>=1.8.0,<2.0",
+    "fastapi<0.115.0",
     "gradio<5.0.0",
+    "jinja2==3.1.3",
     "ragworkbench==0.1.3",
     "rank-bm25>=0.2.2",
     "sentence-transformers>=3.0.0,<4.0",
+    "starlette<1.0.0",
     "transformers>=4.40.0",
 ]
 

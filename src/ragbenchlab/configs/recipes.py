@@ -9,7 +9,7 @@ Phase 1 Recipes
 ---------------
 R0  No RAG baseline
 R1  BM25 only
-R2  Dense only  (sentence-transformers BAAI/bge-small-en-v1.5 + FAISS)
+R2  Dense only  (sentence-transformers/all-MiniLM-L6-v2 + FAISS)
 R3  Hybrid BM25 + Dense with RRF fusion
 R4  Hybrid + Cross-encoder reranker (ms-marco-MiniLM-L-6-v2)
 
@@ -109,7 +109,7 @@ RECIPES: dict[str, RecipeConfig] = {
     ),
     "R2": RecipeConfig(
         recipe_id="R2",
-        description="Dense only — BAAI/bge-small-en-v1.5 embeddings + FAISS",
+        description="Dense only — sentence-transformers/all-MiniLM-L6-v2 embeddings + FAISS",
         retrieval=RetrievalStrategy.DENSE,
     ),
     "R3": RecipeConfig(

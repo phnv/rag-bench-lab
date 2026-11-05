@@ -5,6 +5,7 @@ Usage
 -----
     uv run python main.py --recipe R0 --scenario nq --mode dev
     uv run python main.py --recipe R1 --scenario hotpotqa --mode eval
+    uv run python main.py --recipe R4 --scenario nq --mode eval --description "Baseline R4" --comment "seed=42"
 
 Available scenario IDs : nq | hotpotqa | watsonx | dabstep
 Available recipe IDs   : R0 | R1 | R2 | R3 | R4  (Phase 1 baseline ladder)
@@ -49,6 +50,20 @@ def main() -> None:
         help="Subset mode: dev (5 questions) or eval (10 questions). Default: dev",
     )
     parser.add_argument(
+        "--description",
+        default="",
+        metavar="TEXT",
+        help="Optional free-text description stored in experiment_metadata JSON.",
+    )
+    parser.add_argument(
+        "--comment",
+        action="append",
+        dest="comments",
+        default=None,
+        metavar="TEXT",
+        help="Optional short comment (can be passed multiple times).",
+    )
+    parser.add_argument(
         "--output-dir",
         default="output",
         metavar="DIR",
@@ -75,6 +90,8 @@ def main() -> None:
             recipe_id=args.recipe,
             scenario_id=args.scenario,
             mode=args.mode,
+            description=args.description,
+            comments=args.comments,
         )
         print(f"\n✓ Experiment complete. Results in: {out_dir}")
     except KeyError as exc:
